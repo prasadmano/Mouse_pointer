@@ -12,7 +12,6 @@ class display_annotation:
     mp_drawing_styles = mp.solutions.drawing_styles
 
     def __init__(self):
-        #self.arg = arg
         pass
 
     def fps(self, image):
